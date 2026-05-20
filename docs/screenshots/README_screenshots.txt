@@ -1,0 +1,1 @@
+Please place screenshots (see README) in docs/screenshots; this file is a placeholder.
